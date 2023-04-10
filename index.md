@@ -1,10 +1,10 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Credit Card Fraud Detection Using Boosting Algorithms](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
