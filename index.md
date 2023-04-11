@@ -1,15 +1,20 @@
-## Data Science Portfolio
+## Selected projects in data science and machine learning
+
 
 ---
 
-### Category Name 1 
+### Credit Card Fraud Detection
 
-[Credit Card Fraud Detection Using Boosting Algorithms](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
+[View code on jupyter notebook](http://localhost:8888/notebooks/Desktop/Projects/Fraud_detection.ipynb#Time-Analysis)
 ---
+
+### 
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Credit Card Fraud Detection Using Boosting Algorithms](/sample_page)
 
 ---
 [Project 3 Title](http://example.com/)
