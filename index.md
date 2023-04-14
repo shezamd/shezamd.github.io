@@ -1,16 +1,13 @@
-## Selected projects in data science and machine learning
-
-
+## Selected projects in data science 
 ---
-
 ### Credit Card Fraud Detection
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+Credit card fraud detection recognizes fraudulent credit card transactions so that customers are not charged for items that they did not purchase. In this project, I built various boosting models to detect fraudalents transactions using Catboost, LightGBM and XGBoost. 
+
 
 [View code on jupyter notebook](http://localhost:8888/notebooks/Desktop/Projects/Fraud_detection.ipynb#Time-Analysis)
----
 
-### 
+---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
