@@ -1,4 +1,4 @@
-## Selected projects in data science 
+## Selected Projects In Data Science 
 ---
 ### Credit Card Fraud Detection
 
@@ -8,7 +8,7 @@ Credit card fraud detection recognizes fraudulent credit card transactions so th
 
 ---
 
-### Bitcoin analyisis with major stock exchanges
+### Bitcoin Analyisis With Major Stock Exchanges
 
 In recent years, cryptocurrency as an asset class has seen institutional interest. In this project, I explored bitcoin's price and volume behaviour with major stock exchanges including NYSE, NASDAQ and LSE over time.
 
