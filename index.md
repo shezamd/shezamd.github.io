@@ -4,7 +4,7 @@
 
 Credit card fraud detection recognizes fraudulent credit card transactions so that customers are not charged for items that they did not purchase. In this project, I built various boosting models to detect fraudalents transactions using Catboost, LightGBM and XGBoost. 
 
-[View code on jupyter notebook](http://localhost:8888/notebooks/Desktop/Projects/Fraud_detection.ipynb#Time-Analysis)
+[View code on GitHub](https://github.com/shezamd/credit_card_fraud_detection/blob/main/Fraud_detection.ipynb)
 
 ---
 
