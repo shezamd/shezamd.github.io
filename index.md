@@ -4,14 +4,16 @@
 
 Credit card fraud detection recognizes fraudulent credit card transactions so that customers are not charged for items that they did not purchase. In this project, I built various boosting models to detect fraudalents transactions using Catboost, LightGBM and XGBoost. 
 
-
 [View code on jupyter notebook](http://localhost:8888/notebooks/Desktop/Projects/Fraud_detection.ipynb#Time-Analysis)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Bitcoin analyisis with major stock exchanges
+
+In recent years, cryptocurrency as an asset class has seen institutional interest. In this project, I explored bitcoin's price and volume behaviour with major stock exchanges including NYSE, NASDAQ and LSE over time.
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Credit Card Fraud Detection Using Boosting Algorithms](/sample_page)
 
 ---
 [Project 3 Title](http://example.com/)
