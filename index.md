@@ -21,7 +21,7 @@ In recent years, cryptocurrency as an asset class has seen institutional interes
 
 ---
 
-### Category Name 2
+### Further Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
