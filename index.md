@@ -12,7 +12,7 @@ Credit card fraud detection recognizes fraudulent credit card transactions so th
 
 In recent years, cryptocurrency as an asset class has seen institutional interest. In this project, I compared bitcoin's price and volume behaviour with major stock exchanges including NYSE, NASDAQ and LSE over time.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/btc.png?raw=true"/>
 
 ---
 ### Project 3 Title
